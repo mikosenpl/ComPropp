@@ -1,0 +1,5 @@
+node_modules/
+build/
+out/
+next.config.js
+i18n.js

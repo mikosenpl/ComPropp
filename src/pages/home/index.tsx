@@ -12,9 +12,7 @@ export default function Home() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div>
-        <h1>{t('test')}</h1>
-      </div>
+      <div>{t('test')}</div>
       <Link href="/home" locale="en">
         <h2>Angielski</h2>
       </Link>
