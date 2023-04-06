@@ -1,3 +1,22 @@
 {
-  "test": "testowanie"
+  "test": "testowanie",
+  "menu": {
+    "search": "Wyszukiwarka",
+    "news": "Informacje",
+    "faq": "FAQ",
+    "aboutUs": "O nas",
+    "register": "Rejestracja",
+    "login": "LOGOWANIE"
+  },
+  "mainContent": {
+    "title": "Rozmowa jest najważniejsza",
+    "description": "Miejsce do wyszukiwania mieszkań, komunikacji między stronami najmu, oraz zarządzania nieruchomością",
+    "searchPlaceHolder:": "Wyszukaj mieszkanie dla siebie...",
+    "checkList": {
+      "one": "Sprawdzeni najemcy i wynajmujący",
+      "two": "Najlepsze oferty",
+      "three": "Wygodny system obsługi nieruchomości",
+      "four": "Dostępne darmowe pakiety"
+    }
+  }
 }
