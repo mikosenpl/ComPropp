@@ -1,3 +1,11 @@
 {
-  "test": "testowanie"
+  "test": "testowanie",
+  "menu": {
+    "search": "Wyszukiwarka",
+    "news": "Wiadomości",
+    "faq": "FAQ",
+    "aboutUs": "O nas",
+    "register": "Rejestracja",
+    "login": "LOG IN"
+  }
 }
