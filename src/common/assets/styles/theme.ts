@@ -6,7 +6,7 @@ export const lightTheme: DefaultTheme = {
   colors: {
     primary: '#285095',
     secondary: '#093A4B',
-    tertiary: '#06D59F',
+    tertiary: '#82CCB9',
     background: '#EFF1E9',
     text: '#101A28',
     body: '#FFFFFF',

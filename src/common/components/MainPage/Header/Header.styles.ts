@@ -4,7 +4,7 @@ import { Button } from '@mui/material';
 
 export const MainHeaderWrapper = styled.div`
   width: 100%;
-  height: 14%;
+  height: 15%;
   display: flex;
   text-align: center;
   ul,
@@ -24,8 +24,8 @@ export const LogoWrapper = styled.div`
 `;
 
 export const LogoImage = styled(Image)`
-  height: 100%;
-  width: auto;
+  height: auto;
+  width: 90%;
 `;
 
 export const MenuWrapper = styled.div`
